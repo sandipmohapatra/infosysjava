@@ -16,16 +16,16 @@ Thinks need to be done
 5)how to run the project steps
 -----------------------------------------------------------------------
 team-1
-Aashish,karan,keerthi,kumar Harsha,Srikar
+aditi,gayatri,srilakshmi,
 --------------------------------------------------------------------------
 team-2
-Marri durga,nanda kishore,Nettem,priya,Tanishk
+himanshu,jeeva,veera raga sai
 -------------------------------------------------------------------------------
 team-3
-Renuka,saikat,sanjeevi,sayantani,venkata praveen
+Kshama,neeraj,Pallavi,venkatesh
 ------------------------------------------------------------------
 team-4
-Sharan,Shree Varuna,Shyam Singh,Sreekanth
+pavan,prashant,sangmesh,sujeet
 -------------------------------------------------------------------------------
 
 
