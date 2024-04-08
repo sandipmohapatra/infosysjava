@@ -16,7 +16,7 @@ Thinks need to be done
 5)how to run the project steps
 -----------------------------------------------------------------------
 team-1
-aditi,gayatri,srilakshmi,
+aditi,gayatri,srilakshmi,Hema
 --------------------------------------------------------------------------
 team-2
 himanshu,jeeva,veera raga sai
